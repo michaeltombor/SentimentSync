@@ -76,3 +76,4 @@ venv.bak/
 .kaggle/
 
 .DS_Store
+*.csv
